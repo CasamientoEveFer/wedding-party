@@ -3,32 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa4adc6e-aa7f-4e33-a25b-a5fc40b46dd9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/family-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/family-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/family-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/family-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/family-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/family-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicon-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo4.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change beforePath="$PROJECT_DIR$/images/pa2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pa3.jpg" afterPath="$PROJECT_DIR$/images/slider-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/photo_pa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/slider-02.jpg" afterPath="$PROJECT_DIR$/images/slider-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/slider-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/test.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="86" column="149" lean-forward="false" selection-start-line="86" selection-start-column="149" selection-end-line="86" selection-end-column="149" />
+            <state relative-caret-position="232">
+              <caret line="86" column="144" lean-forward="false" selection-start-line="86" selection-start-column="144" selection-end-line="86" selection-end-column="144" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -392,7 +366,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -404,7 +377,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -745,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="86" column="149" lean-forward="false" selection-start-line="86" selection-start-column="149" selection-end-line="86" selection-end-column="149" />
+        <state relative-caret-position="232">
+          <caret line="86" column="144" lean-forward="false" selection-start-line="86" selection-start-column="144" selection-end-line="86" selection-end-column="144" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
