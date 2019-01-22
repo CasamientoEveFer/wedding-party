@@ -375,6 +375,7 @@ button:focus{
     text-align: center;
     vertical-align: middle;
 	position: relative;
+	padding-left:40%;
 }
 
 .lbox-details::before{
@@ -438,6 +439,10 @@ button:focus{
 	text-align: center;
 	margin-bottom: 30px;
 }
+.subtitle-box{
+	text-align: center;
+	margin-bottom: 30px;
+}
 .title-box h2{
 	font-size: 60px;
 	font-family: 'Marck Script', cursive;
@@ -446,6 +451,9 @@ button:focus{
 .title-box h2 span{
 	color: #dd666c;
 	text-decoration: underline;
+}
+.subtitle-box h2{
+   	font-size: 40px;
 }
 .about-main-info h2{
 	font-size: 40px;

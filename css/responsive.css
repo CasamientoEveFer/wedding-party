@@ -32,11 +32,15 @@
 		font-size: 20px;
 	}
 	.lbox-details a.btn{
-		display: none;
+		font-size: 15px;
+		padding: 4px 8px;
 	}
 	.title-box h2{
 		font-size: 28px;
 	}
+	.subtitle-box h2{
+    	font-size: 22px;
+    }
 	.about-main-info h2{
 		font-size: 24px;
 	}
@@ -66,5 +70,8 @@
 	}
 	.gallery-box ul li{
 		width: 50%;
+	}
+	.pogoSlider-nav-btn{
+	    display:none
 	}
 }
